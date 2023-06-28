@@ -1,4 +1,4 @@
-## Hi there 👋! I'm **Andy Nguyen**, a 3rd year CS Student at UCI!
+## Hi there 👋 I'm **Andy Nguyen**, a 3rd year CS Student at UCI!
 <!--
 **AndyNguwin/AndyNguwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
