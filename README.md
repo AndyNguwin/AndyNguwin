@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Andy Nguyen** and I'm a 3rd year Computer Science major at UCI!
+I'm **Andy Nguyen** and I'm a 3rd year CS Student at UCI!
 <!--
 **AndyNguwin/AndyNguwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
