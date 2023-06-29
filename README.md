@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm **Andy Nguyen**, a 3rd year CS Student at UCI!
+
+Find me on [LinkedIn](https://www.linkedin.com/in/andynguyen28/) if you want want to get in touch!
 <!--
 **AndyNguwin/AndyNguwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Find me on LinkedIn[Link](https://www.linkedin.com/in/andynguyen28/) if you want want to get in touch!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
