@@ -1,4 +1,4 @@
-## Hi there 👋 I'm **Andy Nguyen**, a 4th year CS Student at UCI!
+## Hi there 👋 I'm **Andy Nguyen**, a recent graduate from UCI with a Bachelor's in Computer Science!
 
 Find me on [LinkedIn](https://www.linkedin.com/in/andynguyen28/) if you want want to get in touch!
 <!--
